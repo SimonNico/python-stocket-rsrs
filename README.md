@@ -81,7 +81,7 @@ def run_rsrs(stock_codes):
             # print('Error',ex)
             # break
         continue
-        ```
+```
         
       
   * 需要在服务器做个定时任务跑，将数据写入数据库，然后定时任务跑发邮件的模块，建议每天早上发邮件
